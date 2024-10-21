@@ -1,0 +1,26 @@
+*{
+    /* padding - to word equal on all browsers */
+    padding: 0;
+    margin: 0;
+}
+
+form{
+    border:1px solid blue;
+    border-radius: 10px;
+    width: 33%;
+    margin: auto;
+    margin-top: 35%;
+    padding: 50px;
+    text-align: center;
+    background-color: aqua;
+    
+}
+form>*{
+    margin-bottom: 20px;
+}
+
+button{
+    padding: 3px;
+    border-radius: 3px;
+    border: none;
+}
